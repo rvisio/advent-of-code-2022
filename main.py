@@ -3,11 +3,12 @@ from day_two import day_two
 from day_three import day_three
 from day_four import day_four
 from day_five import day_five
+from day_six import day_six
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 if __name__ == '__main__':
-    day_five.sort_crates()
+    day_six.decipher()
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
